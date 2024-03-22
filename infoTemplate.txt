@@ -1,0 +1,14 @@
+navigation heading: font-size:20px;
+Title:h1, font-size:35px;
+	font-weight:500;
+Sub-title: h3 font-size:28px,font-weight:400;
+Info: <p> font-size:13px;
+
+colors
+blue: color:#00A5F5;
+darkblue: color:#552599;
+grey: color:#989898;
+
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+hover: 	background:#D8D8D8;
